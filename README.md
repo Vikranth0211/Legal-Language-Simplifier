@@ -1,5 +1,5 @@
 
-# ⚖️ LegalEase – AI Legal Language Simplifier
+# ⚖️ Legibly.AI – AI Legal Language Simplifier
 
 > A powerful, multilingual legal clause simplifier built using **Ollama + Mistral**, with risk flagging, voice input/output, OCR, clause comparison, and downloadable reports – all in a clean Streamlit interface.
 
@@ -7,7 +7,7 @@
 
 ## 🚀 Project Overview
 
-Legal documents are often hard to understand. LegalEase helps users (especially non-lawyers) to:
+Legal documents are often hard to understand. Legibly.AI helps users (especially non-lawyers) to:
 
 ✅ Simplify legal documents (contracts, policies, agreements)  
 ✅ Understand risk levels in each clause  
