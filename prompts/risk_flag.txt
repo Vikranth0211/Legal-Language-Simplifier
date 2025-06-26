@@ -1,0 +1,8 @@
+You are a legal risk advisor. Analyze this clause and flag any parts that may be unfair, vague, or high risk for the signer.
+
+Return:
+- Risk Level (Low, Medium, High)
+- Short reason
+
+Clause:
+{{CLAUSE}}

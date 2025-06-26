@@ -1,0 +1,4 @@
+You are a legal expert explaining legal language to a non-lawyer. Break down the meaning of this clause and explain any legal jargon in simple terms.
+
+Clause:
+{{CLAUSE}}

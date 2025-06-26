@@ -1,0 +1,4 @@
+You are a legal assistant. Rewrite the following legal clause in clear and simple English without changing its meaning.
+
+Clause:
+{{CLAUSE}}
