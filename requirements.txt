@@ -1,0 +1,11 @@
+streamlit>=1.28.0
+pdfplumber>=0.10.2
+PyPDF2>=3.0.0
+pytesseract>=0.3.10
+Pillow>=9.5.0
+googletrans==4.0.0-rc1
+SpeechRecognition>=3.8.1
+pyttsx3>=2.90
+matplotlib>=3.7.0
+langchain>=0.1.7
+requests>=2.31.0
