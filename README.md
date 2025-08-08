@@ -157,15 +157,6 @@ pipwin install pyaudio
 
 ---
 
-## 🙌 Team & Credits
-
-- 🧑‍💻 Developer: [Your Name]
-- 🤖 LLM Prompting & Strategy: ChatGPT + You
-- 🧠 Model: Mistral via Ollama
-- 🔊 Voice Tools: Open Source
-
----
-
 ## 📜 License
 
 MIT License. Free for non-commercial use.
